@@ -1,2 +1,0 @@
-# webBates.github.io
-test
